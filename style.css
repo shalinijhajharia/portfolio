@@ -1,0 +1,123 @@
+.nav-bar
+{
+   
+    padding: right 0%;;
+    font-size: 40px;
+    
+}
+.container
+{
+    background-color: black;
+   
+    padding-right: 0%;
+    background-size: 50%;
+}
+.aboutme
+{
+    
+    height: 300px;
+    text-align:left;
+    color:rgb(250, 251, 252);
+    padding-left: 50%;
+    font-style: inherit;
+    font-size: 25px;
+}
+body
+{
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v462-n-130-textureidea_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=9465282a2b0a375f4f5b120d7bbad882");
+    text-shadow:white;
+    
+}
+div h1
+{
+   margin: left 50px;;
+   text-align: left;
+   color:#033CC2;
+   font-size: 40px;
+
+}
+h1
+{
+    color:ghostwhite;
+    font-size: 79px;
+    text-align: center;
+    
+}
+.facebook 
+{   
+    background: #033CC2;   
+    color: white;  
+}       
+.twitter
+ {   
+    color: white;   
+    background: #033CC2;   
+}   
+.linkedin {   
+    background: #033CC2;   
+    color: white;   
+}
+.instagram 
+{   
+    background: #033CC2;   
+    color: white;   
+}             
+.stickyicon-list 
+{   
+        position: fixed;   
+        top: 200px;   
+        transform: translateY(-50%);             
+}         
+.stickyicon-list a 
+{   
+        display: block;   
+        text-align: center;   
+        padding: 8px;   
+        transition: all 0.5s ease;   
+        color: white;   
+        font-size: 20px;   
+}         
+        
+.stickyicon-list a:hover 
+{   
+        color: #000;   
+        width:10px;   
+}   
+h3
+{
+    color: yellowgreen;
+}
+.button {
+    background-color:rgb(10, 9, 9);  
+    border-radius: 2px;
+    color: rgb(255, 249, 249);
+    padding: .1em;
+    text-decoration: none;
+    width: 180px;
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 90%;
+border-bottom: 1px solid #C3DBFB;
+display: block;
+padding: 5px 5px 5px 5px;
+border-left: 18px solid #033CC2;
+border-right: 6px solid #033CC2;
+float: left;
+  }
+  
+.button:hover{
+    background-color: #033CC2;
+color: #FFFFFF;
+}
+.button1
+{
+    background-color:rgb(10, 9, 9);  
+    border-radius: 2px;
+    color: rgb(17, 233, 35);
+    padding: .1em;
+    text-decoration: none;
+    width: 180px;
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 90%;
+border-bottom: 1px solid #2cb809;
+display: block;
+}
